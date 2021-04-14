@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Ten {
+public class ChaptTen {
   public static void main(String[]args){
 /*    
     ArrayList<String> hWA = new ArrayList<String>();
