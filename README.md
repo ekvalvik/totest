@@ -22,6 +22,6 @@ removes all elements whose values are in the range min through max
 (inclusive). For example, a parameter containing the low and high of 3, 6 (respectively)
 with an ArrayList containing "1, 2, 3, 44, 5, 6, 7" would become "1, 2, 44, 7".
 
-Extra Credit: Project 10.2 - incomplete
+Extra Credit: Project 10.2 - ProjectTenTwo.java - reads from a file and reverses the lines and the words. This program, only half way complete, only revereses the words... for now.
 
 
