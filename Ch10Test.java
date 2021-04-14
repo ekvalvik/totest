@@ -298,15 +298,15 @@ sed nisl, pharetra finibus Vestibulum vehicula. facilisis amet sit purus
 accumsan Nullam elit. adipiscing consectetur amet, sit dolor ipsum Lorem
 """;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+//© 2021 GitHub, Inc.
+//Terms
+//Privacy
+//Security
+//Status
+//Docs
+//Contact GitHub
+//Pricing
+//API
+//Training
+//Blog
+//About
