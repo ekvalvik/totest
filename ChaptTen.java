@@ -4,7 +4,7 @@ import java.util.*;
 
 public class ChaptTen {
   public static void main(String[]args){
-/*    
+    
     ArrayList<String> hWA = new ArrayList<String>();
     hWA.add("Hello");
     hWA.add("World");
@@ -21,13 +21,13 @@ public class ChaptTen {
     digits.add(1);
     digits.add(3);
     
-   //doubleList(hWA); //doubles each element
-   //minToFront(digits); //puts minimum number to front of list
-   //stutter(3, hWA); //dublicates each element (int) many times.
-   //filterRange(digits, 3, 4); //removes numbers between first int and second int.
-   //System.out.println(hWA);
-   //System.out.println(digits);
-*/    
+   doubleList(hWA); //doubles each element
+   minToFront(digits); //puts minimum number to front of list
+   stutter(3, hWA); //dublicates each element (int) many times.
+   filterRange(digits, 3, 4); //removes numbers between first int and second int.
+   System.out.println(hWA);
+   System.out.println(digits);
+   
   }
   public static void doubleList(ArrayList<String> hWA){ //10.4
     int size = hWA.size();
