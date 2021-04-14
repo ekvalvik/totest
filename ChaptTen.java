@@ -25,8 +25,8 @@ public class ChaptTen {
    minToFront(digits); //puts minimum number to front of list
    stutter(3, hWA); //dublicates each element (int) many times.
    filterRange(digits, 3, 4); //removes numbers between first int and second int.
-   System.out.println(hWA);
-   System.out.println(digits);
+   //System.out.println(hWA);
+   //System.out.println(digits);
    
   }
   public static void doubleList(ArrayList<String> hWA){ //10.4
