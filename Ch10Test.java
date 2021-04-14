@@ -21,7 +21,7 @@ public class Ch10Test {
 			System.exit(-1);
 		}
 		
-		String className = "Ch10";
+		String className = "ChaptTen";
 		try{
 			ch = Class.forName(className);
 			testDoubleList();
