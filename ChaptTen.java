@@ -54,8 +54,10 @@ public class ChaptTen {
                last = i;
       }
       int digit = digits.get(last);
+      try{
       digits.remove(last);
-      digits.add(0, digit);   
+      digits.add(0, digit);
+      } else {  throw new IllegalArgumentException("Parameter must not be imutable.");
    }
     public static void stutter(int k, ArrayList<String> hWA){ //10.11
      if (hWA == null){
