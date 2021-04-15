@@ -5,7 +5,7 @@ import java.lang.*;
 
 public class ChaptTen {
   public static void main(String[]args){
-    
+ /*   
     ArrayList<String> hWA = new ArrayList<String>();
     hWA.add("hello");
     hWA.add("World");
@@ -28,7 +28,7 @@ public class ChaptTen {
    //filterRange(digits, 3, 4); //removes numbers between first int and second int.
    System.out.println(hWA);
   // System.out.println(digits);
-  
+ */ 
   }
   public static void doubleList(ArrayList<String> hWA){ //10.4
     if(hWA== null)
